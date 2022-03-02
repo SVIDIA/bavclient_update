@@ -2,11 +2,11 @@
 
 ### SVIDIA_BAVClient_1_0_1_6
 *Mar 01, 2022*
-- updated windows version to reflect changes required for the updated Micosoft Edge browser 
+- updated windows version to reflect changes required for the updated Microsoft Edge browser 
 
 ### SVIDIA_BAVClient_1_0_1_5
 *Feb 02, 2021*
-- updated windows version to reflect changes required for the updated Micosoft Edge browser 
+- updated windows version to reflect changes required for the updated Microsoft Edge browser 
 
 ### SVIDIA_BAVClient_1_0_1_3
 *Jul 03, 2020*
